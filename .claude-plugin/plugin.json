@@ -1,0 +1,24 @@
+{
+  "name": "code-auditor",
+  "description": "Scores Claude Code artifacts (skills, agents, commands, rules, memories, CLAUDE.md) against official Anthropic best practices and produces actionable A–F grade reports with fix guidance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jerry Chen",
+    "email": "ordinary9843@gmail.com"
+  },
+  "homepage": "https://github.com/ordinary9843/claude-code-auditor",
+  "repository": "https://github.com/ordinary9843/claude-code-auditor",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "code-quality",
+    "static-analysis",
+    "developer-tools",
+    "productivity",
+    "best-practices",
+    "prompt-engineering",
+    "code-review",
+    "lint"
+  ]
+}
